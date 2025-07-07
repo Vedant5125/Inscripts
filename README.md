@@ -16,4 +16,4 @@ Tech Stack:
 
 Screenshots:
 
-![Spreadsheet Preview](./public/Spreedsheet_UI.png)
+![Spreadsheet Preview](screenshots/Spreedsheet_UI.png)
