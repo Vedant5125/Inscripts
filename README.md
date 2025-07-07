@@ -17,3 +17,7 @@ Tech Stack:
 Screenshots:
 
 ![Spreadsheet Preview](screenshots/Spreedsheet_UI.png)
+
+Live URL
+
+[View Live App](https://inscripts-pink.vercel.app/)
